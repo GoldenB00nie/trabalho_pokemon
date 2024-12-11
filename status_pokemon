@@ -1,0 +1,29 @@
+.1 !Pikachu @Elétrico #- $35 %55 &30 *90 (50
+.2 !Charmander @Fogo #- $39 %52 &43 *65 (50  
+.3 !Bulbassauro @Planta #Veneno $45 %49 &49 *45 (65
+.4 !Squirtle @Água #- $44 %48 &65 *43 (50
+.5 !Clefairy @Fada #- $70 %45 &48 *35 (60
+.6 !Spearow @Normal #Voador $40 %60 &30 *70 (31
+.7 !Mankey @Lutador #- $40 %80 &35 *70 (35
+.8 !Meowth @Normal #- $40 %45 &35 *90 (40
+.9 !Psyduck @Água #- $50 %52 &48 *55 (50
+.10 !Ekans @Veneno #- $35 %60 &44 *55 (40
+.11 !Poliwag @Água #- $40 %50 &40 *90 (40
+.12 !Abra @Psíquico #- $25 %20 &15 *90 (105
+.13 !Machop @Lutador #- $70 %80 &50 *35 (35
+.14 !Geodude @Pedra #Terrestre $40 %80 &100 *20 (30
+.15 !Magnemite @Elétrico #Aço $25 %35 &70 *45 (95
+.16 !Cubone @Terrestre #- $50 %50 &95 *35 (40
+.17 !Dratini @Dragão #- $41 %64 &45 *50 (50
+.18 !Ditto @Normal #- $48 %48 &48 *48 (48
+.19 !Vulpix @Fogo #- $38 %41 &40 *65 (65
+.20 !Bellsprout @Planta #Veneno $50 %75 &35 *40 (70
+
+. = num_poke, ! = nome, @ = tipo 1, # = tipo 2, $ = vida, % = ataque, & = defesa, * = velocidade, ( = especial
+
+F - Fire; W - Water; G - Grass; P - Poison; E - Eletric; Fa - Fairy; N - Normal; Fly - Flying; Gr - Ground; Psy - psychic; 
+Fi - Fighting; R - Rock; S - Steel; D - Dragon
+
+F : 2; E : 2; G : 2; P : 3; W : 3; Fa : 1;
+N : 3; Fly : 1; Gr : 2; Psy : 1; Fi: 2; R : 1;
+S : 1; D : 1;

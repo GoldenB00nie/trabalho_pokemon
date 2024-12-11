@@ -1,0 +1,17 @@
+
+Aço, Planta;        Pedra, Fogo, Água, Dragão;          Aço, Fogo, Planta;                         Terrestre, Pedra, Água;
+Terrestre, Rock, Fogo;        Água, Terrestre, Dragão;             Aço, Fogo, Água;                         Terrestre, Elétrico;
+Terrestre, Rock, Água;        Voador, Veneno, Aço, Fogo, Terrestre, Dragão;  Gr, Água, Terrestre, Elétrico;                     Fly, Veneno, F;
+Planta, Fada;           Veneno, Terrestre, Pedra, Aço;         Fi, Veneno, Terrestre, Fa;                    Gr, Psy;
+Flying, Água;          Gr, Terrestre, Elétrico, D;         Fly, S, Elétrico,;                       Gr;
+Fighting, Dragão;           Veneno, S, F;             Fi, D;                           Veneno, S;
+-;               Pedra, S;                -;                               Fi;
+Fi, G;           Pedra, S, Elétrico;             Fi, Gr, G;                       Pedra, Elétrico;
+Veneno, Pedra, S, Fogo, Elétrico;   Fly, G;              Veneno, Pedra, Elétrico;                         Água, G;
+Fi, P;           S, Psy;              Fi, Psy;                         -;
+N, Pedra, S;         Fly, Veneno, Psy, Fa;     R;                               Fly, Psy, Fa;
+Fly, F;          Fi, Gr, S;           N, Fly, Veneno, F;                    Fi, Gr, S, Água, G;
+Pedra, Fa;           S, Fogo, Água, E;          N, Fly, Veneno, Pedra, S, Terrestre, Psy, D, Fa;  Fi, Gr, F;
+D;               S, Fa;               Fogo, Água, Terrestre, Elétrico;                      D, Fa;
+!
+    Tipo            Forte contra    Fraco contra        Resistente contra               Vulnerável contra
